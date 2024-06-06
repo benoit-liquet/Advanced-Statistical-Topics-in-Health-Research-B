@@ -8,7 +8,7 @@
 - 9:45 to 10:00 Break (might need a coffee)
 - 10:00 to 10:45: **Tutorial PCA**
 - 10:45 to 11:00 Break (might need a coffee)
-- 11:00 to 12:00: **PCR and PLS**
+- 11:00 to 12:00: **PCR and PLS** [(PCR AND PLS)](https://github.com/benoit-liquet/Advanced-Statistical-Topics-in-Health-Research-B/blob/main/Lecture_PCR_PLS_2024.pdf)
 - 12:00 to 13:00: Lunch Break 
 - 13h00 to 14:00: **PLS and PLS-DA** 
 - 14:00 to 15:00: **Sparse PCA and PLS**
